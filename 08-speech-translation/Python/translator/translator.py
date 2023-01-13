@@ -3,8 +3,6 @@ from datetime import datetime
 import os
 
 # Import namespaces
-
-
 def main():
     try:
         global speech_config
